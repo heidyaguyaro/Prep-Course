@@ -1,0 +1,4 @@
+for: un bucle for se utiliza para repetir una instrucción un número determinado de veces, hasta que una condición sea false (de esta manera no se repetirá un ciclo infinito). Esta formado por for (variable sobre la que se reptirá el bucle; expresión condicional, el ciclo continuará hasta que esta sea false; incremento de la variable) {}
+&& : es el operador Y (and). Evalúa las declaraciones y devuelve true si todas son verdaderas, en caso contrario devuelve false.
+|| : operador "o" (or). Determina si una de las expresiones es true (o ambas), en ese caso devuelve true. Devuelve false si ambas son false. 
+! : operador NOT (es negación de lo que continúa). Por ejemplo !== significa que NO es igual. 
