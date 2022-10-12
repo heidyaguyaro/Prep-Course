@@ -1,0 +1,6 @@
+Array= un array es una lista de datos o elementos que se utilizan para almacenar múltiples valores en una sola variable. Los elementos pueden ser cualquier tipo de datos (strins, números, booleanoso inclusive un arreglo (otro array)). Los elementos reciben una posición numérica o índice que parte desde el 0. Para acceder a ellos podemos usar variables.
+.push agrega un elemento al final de la matriz.
+.pop elimina el último elemento de la matriz.
+.length cuenta y devuelve el número de elementos de la matriz.
+.unshift coloca un nuevo elemento en la primera posición de la matriz.
+.shift elimina el primer elemento de la matriz. 
