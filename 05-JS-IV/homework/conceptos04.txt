@@ -1,0 +1,5 @@
+Objetos: los objetos en JS son una coleccion de propiedades con funciones especificas, es decir, un arreglo asociativo. En JS todo, absolutamente todo es un objeto.
+Propiedades: las propiedades son una asocioacion entre un nombre o clave y un valor, son las características de los objetos.
+Metodos: son las funciones guardadas en un objeto, que luego podremos invocar. En otras palabras, propiedades que hacen referencia a funciones.
+Bucle for ... in: es un tipo de bucle que nos permite iterar sobre claves-valor en objetos que no contienen índices numericos..
+Notacion de puntos vs notacion de corchetes: la notacion por puntos consta de una cadena alfanumerica de caracteres, y la notacion de corchetes es una cadena. Son dos metodos que nos permiten acceder a las propiedades de un objeto.
